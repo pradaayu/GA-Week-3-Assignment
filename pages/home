@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Prada Ayu Nurani</title>
-        <link rel="stylesheet" href="styles.css">
-        <link rel="stylesheet" href="responsive.css">
-        <link rel="GAxPG Group Assignment/week 3">
+        <link rel="stylesheet" href="CSS/styles.css">
+        <link rel="stylesheet" href="CSS/responsive.css">
+        <link rel="GA-Week-3-Assignment/tree/master/assets">
     </head>
     <body>
         <div id="container">
@@ -14,19 +14,19 @@
                 <div class="nav-container">
                     <ul id="list-center">
                         <li>
-                            <a href="home.html">HOME</a>
+                            <a href="pages/home.html">HOME</a>
                         </li>
                         <li>
-                            <a href="profile.html">PROFILE</a>
+                            <a href="pages/profile.html">PROFILE</a>
                         </li>
                         <li>
-                            <a href="experience.html">EXPERIENCE</a>
+                            <a href="pages/experience.html">EXPERIENCE</a>
                         </li>
                         <li>
-                            <a href="portfolio.html">PORTFOLIO</a>
+                            <a href="pages/portfolio.html">PORTFOLIO</a>
                         </li>
                         <li>
-                            <a href="contact.html">CONTACT</a>
+                            <a href="pages/contact.html">CONTACT</a>
                         </li>
                     </ul>  
                 </div>
